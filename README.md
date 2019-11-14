@@ -1,5 +1,12 @@
 # newrepo
 new repo
 
-# To Do
-New changes here.
+# Added Javascrip function
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
